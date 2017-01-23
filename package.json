@@ -1,0 +1,21 @@
+{
+  "name": "valportfolio",
+  "version": "1.0.0",
+  "description": "Val's portfolio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pr0sper0",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.16.0",
+    "bootstrap": "4.0.0-alpha.6",
+    "ejs": "2.5.5",
+    "express": "4.14.0",
+    "morgan": "1.7.0"
+  }
+  "engines": {
+    "node": "6.9.2"
+  }
+}
